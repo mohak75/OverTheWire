@@ -343,5 +343,5 @@ grep pattern        # Search for pattern
 
 ---
 
-**Last Updated:** [Date]  
+**Last Updated:** [10/2/2026]  
 **Current Level:** 5
